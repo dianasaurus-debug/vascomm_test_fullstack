@@ -17,4 +17,6 @@
 6. Setelah semua dimigrate, lalu isikan beberapa data tabel dengan data di seeder, dengan perintah <b>php artisan db:seed</b>
 7. Jika sudah, hidupkan server dengan perintah <b>php artisan serve</b>
 8. lalu, compile vue dengan <b>npm run dev</b>
-9. Kemudian <i>Project sudah siap digunakan!</i>, untuk login gunakan akun dengan email : admin@gmail.com dan password : password
+9. Kemudian <i>Project sudah siap digunakan!</i>, untuk login admin akses localhost:8000/admin/login, gunakan akun dengan email : admin@gmail.com dan password : password
+10. Untuk login customer akses localhost:8000/admin/login, gunakan akun dengan email : admin@gmail.com dan password : password
+
